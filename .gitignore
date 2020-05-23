@@ -1,0 +1,7 @@
+tests/__history/
+*.dcu
+source/__history/
+tests/Iban4PasTests.res
+*.identcache
+*.local
+tests/Win32/Debug/dunit.ini
